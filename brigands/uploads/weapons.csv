@@ -1,0 +1,138 @@
+Categories,Code,Melee Capable,Penetration,Range,Traits,Type,Weapon ID,Weight
+"Direct, Indirect",LABM,,5,"12-36 / 48""","AI, Blast:3"", Guided",Air Burst Missile,2,Light
+"Direct, Indirect",MABM,,6,"12-36 / 48""","AI, Blast:3"", Guided",Air Burst Missile,3,Medium
+"Direct, Indirect",HABM,,7,"12-36 / 48""","AI, Blast:3"", Guided",Air Burst Missile,4,Heavy
+"Direct, Indirect",LAPR,,3,"6-18 / 24""","AI, AE:4""",Anti-Personnel Rockets,6,Light
+"Direct, Indirect",MAPR,,5,"6-18 / 24""","AI, AE:4""",Anti-Personnel Rockets,7,Medium
+"Direct, Indirect",HAPR,,7,"6-18 / 24""","AI, AE:4""",Anti-Personnel Rockets,8,Heavy
+Direct,LAPG,,3,"0-3 / 4""","AI, Blast:1"", Frag:1",Anti-Personnel Grenades,9,Light
+"Direct, Indirect",LATM,,8,"12-36 / 48""","AP:2, Guided",Anti-Tank Missile,11,Light
+"Direct, Indirect",MATM,,9,"12-36 / 48""","AP:4, Guided",Anti-Tank Missile,12,Medium
+"Direct, Indirect",HATM,,10,"12-36 / 48""","AP:6, Guided",Anti-Tank Missile,13,Heavy
+"Direct, Indirect",LAVM,,5,"6-18 / 24""","AP:1, Guided",Anti-Vehicle Missile,15,Light
+"Direct, Indirect",MAVM,,6,"6-18 / 24""","AP:2, Guided",Anti-Vehicle Missile,16,Medium
+"Direct, Indirect",HAVM,,7,"6-18 / 24""","AP:3, Guided",Anti-Vehicle Missile,17,Heavy
+"Direct, Indirect",LRP,,7,"6-18 / 24""","AE:3""",Rocket Pack,19,Light
+"Direct, Indirect",MRP,,8,"6-18 / 24""","AE:3""",Rocket Pack,20,Medium
+"Direct, Indirect",HRP,,9,"6-18 / 24""","AE:3""",Rocket Pack,21,Heavy
+Indirect,LAG,,8,"12-36 / 48""","Blast:4"", AS",Artillery Gun,23,Light
+Indirect,MAG,,10,"12-36 / 48""","Blast:4"", AS",Artillery Gun,24,Medium
+Indirect,HAG,,12,"12-36 / 48""","Blast:4"", AS",Artillery Gun,25,Heavy
+Indirect,LAR,,7,"12-36 / 48""","AE:4""",Artillery Rockets,31,Light
+Indirect,MAR,,8,"12-36 / 48""","AE:4""",Artillery Rockets,32,Medium
+Indirect,HAR,,9,"12-36 / 48""","AE:4""",Artillery Rockets,33,Heavy
+Direct,LAC,,6,"6-18 / 24""","Burst:1, Split:2",Autocannon,35,Light
+Direct,MAC,,7,"6-18 / 24""","Burst:1, Split:2",Autocannon,36,Medium
+Direct,HAC,,8,"6-18 / 24""","Burst:1, Split:2",Autocannon,37,Heavy
+Direct,LBZ,,7,"4-12 / 16""",AP:2,Bazooka,39,Light
+Direct,MBZ,,8,"4-12 / 16""",AP:3,Bazooka,40,Medium
+Direct,HBZ,,9,"4-12 / 16""",AP:4,Bazooka,41,Heavy
+Melee,LCW,Yes,5,"0""",,Combat Weapon,47,Light
+Melee,MCW,Yes,7,"0""",,Combat Weapon,48,Medium
+Melee,HCW,Yes,9,"0""",,Combat Weapon,49,Heavy
+"Direct, Indirect",LFG,,8,"8-24 / 32""","Blast:2"", AS",Field Gun,51,Light
+"Direct, Indirect",MFG,,9,"8-24 / 32""","Blast:2"", AS",Field Gun,52,Medium
+"Direct, Indirect",HFG,,10,"8-24 / 32""","Blast:2"", AS",Field Gun,53,Heavy
+Indirect,LFM,,8,"12-36 / 48""","Blast:3""",Field Mortar,55,Light
+Indirect,MFM,,9,"12-36 / 48""","Blast:3""",Field Mortar,56,Medium
+Indirect,HFM,,10,"12-36 / 48""","Blast:3""",Field Mortar,57,Heavy
+Direct,LFL,,3,"0-6 / 8""","AE:3"", AI, Fire:2, Spray",Flamer ,59,Light
+Direct,MFL,,4,"0-6 / 8""","AE:3"", AI, Fire:3, Spray",Flamer ,60,Medium
+Direct,HFL,,5,"0-6 / 8""","AE:3"", AI, Fire:4, Spray",Flamer ,61,Heavy
+Direct,LFC,,3,"0-6 / 8""","AE:1"", AI, Burst:2, Modal",Frag Cannon,63,Light
+Direct,MFC,,4,"0-6 / 8""","AE:1"", AI, Burst:2, Modal",Frag Cannon,64,Medium
+Direct,HFC,,5,"0-6 / 8""","AE:1"", AI, Burst:2, Modal",Frag Cannon,65,Heavy
+"Direct, Indirect",LGL,,7,"4-12 / 16""","Blast:2""",Grenade Launcher,67,Light
+"Direct, Indirect",MGL,,8,"4-12 / 16""","Blast:2""",Grenade Launcher,68,Medium
+"Direct, Indirect",HGL,,9,"4-12 / 16""","Blast:2""",Grenade Launcher,69,Heavy
+Indirect,LHG,,8,"0-6 / 8""","Blast:2""",Hand Grenade,71,Light
+Indirect,MHG,,9,"0-6 / 8""","Blast:2""",Hand Grenade,72,Medium
+Indirect,HHG,,10,"0-6 / 8""","Blast:2""",Hand Grenade,73,Heavy
+Indirect,LGM,,7,"12-36 / 48""","Blast:2"", Guided",Guided Mortar,75,Light
+Indirect,MGM,,8,"12-36 / 48""","Blast:2"", Guided",Guided Mortar,76,Medium
+Indirect,HGM,,9,"12-36 / 48""","Blast:2"", Guided",Guided Mortar,77,Heavy
+Direct,LIL,,3,"4-12 / 16""","Advanced, Burst:1",Infantry Laser,79,Light
+Direct,MIL,,4,"4-12 / 16""","Advanced, Burst:1",Infantry Laser,80,Medium
+Direct,HIL,,5,"4-12 / 16""","Advanced, Burst:1",Infantry Laser,81,Heavy
+Indirect,LIM,,4,"8-24 / 32""","Blast:2"", AI",Infantry Mortar,83,Light
+Indirect,MIM,,5,"8-24 / 32""","Blast:2"", AI",Infantry Mortar,84,Medium
+Indirect,HIM,,6,"8-24 / 32""","Blast:2"", AI",Infantry Mortar,85,Heavy
+Direct,LIS,,3,"6-18 / 24""",,Infantry Support Weapons,87,Light
+Direct,MIS,,4,"6-18 / 24""",,Infantry Support Weapons,88,Medium
+Direct,HIS,,5,"6-18 / 24""",,Infantry Support Weapons,89,Heavy
+Direct,LIW,,2,"0-6 / 8""","AI, Burst:1",Infantry Weapons,91,Light
+Direct,MIW,,3,"0-6 / 8""","AI, Burst:1",Infantry Weapons,92,Medium
+Direct,HIW,,4,"0-6 / 8""","AI, Burst:1",Infantry Weapons,93,Heavy
+Direct,LLC,,6,"8-24 / 32""","Advanced, Precise",Laser Cannon,95,Light
+Direct,MLC,,7,"8-24 / 32""","Advanced, Precise",Laser Cannon,96,Medium
+Direct,HLC,,8,"8-24 / 32""","Advanced, Precise",Laser Cannon,97,Heavy
+Direct,LMG,,2,"4-12 / 16""","AI, Burst:2",Machine Gun,99,Light
+Direct,MMG,,3,"4-12 / 16""","AI, Burst:2",Machine Gun,100,Medium
+Direct,HMG,,4,"4-12 / 16""","AI, Burst:2",Machine Gun,101,Heavy
+Direct,LPG,,6,"0-6 / 8""","Burst:2, Split:2",Pack Gun,103,Light
+Direct,LPZ,,6,"0-6 / 8""",AP:2,Panzerfaust,105,Light
+Direct,MPZ,,7,"0-6 / 8""",AP:3,Panzerfaust,106,Medium
+Direct,HPZ,,8,"0-6 / 8""",AP:4,Panzerfaust,107,Heavy
+Direct,LPA,,7,"6-18 / 24""","Advanced, Haywire",Particle Accelerator,109,Light
+Direct,MPA,,8,"6-18 / 24""","Advanced, Haywire",Particle Accelerator,110,Medium
+Direct,HPA,,9,"6-18 / 24""","Advanced, Haywire",Particle Accelerator,111,Heavy
+Direct,LPL,,8,"6-18 / 24""","Advanced, AS, Blast:2""",Pulse Laser,113,Light
+Direct,MPL,,9,"6-18 / 24""","Advanced, AS, Blast:2""",Pulse Laser,114,Medium
+Direct,HPL,,10,"6-18 / 24""","Advanced, AS, Blast:2""",Pulse Laser,115,Heavy
+Direct,LRG,,8,"8-24 / 32""","Advanced, AP:2",Railgun,117,Light
+Direct,MRG,,9,"8-24 / 32""","Advanced, AP:4",Railgun,118,Medium
+Direct,HRG,,10,"8-24 / 32""","Advanced, AP:6",Railgun,119,Heavy
+Direct,LRF,,6,"8-24 / 32""",Precise,Rifle,121,Light
+Direct,MRF,,7,"8-24 / 32""",Precise,Rifle,122,Medium
+Direct,HRF,,8,"8-24 / 32""",Precise,Rifle,123,Heavy
+Direct,LRC,,6,"4-12 / 16""","Burst:2, Split:2",Rotary Cannon,125,Light
+Direct,MRC,,7,"4-12 / 16""","Burst:2, Split:2",Rotary Cannon,126,Medium
+Direct,HRC,,8,"4-12 / 16""","Burst:2, Split:2",Rotary Cannon,127,Heavy
+Direct,LRL,,6,"6-18 / 24""","Advanced, Burst:1, Split:2",Rotary Laser,129,Light
+Direct,MRL,,7,"6-18 / 24""","Advanced, Burst:1, Split:2",Rotary Laser,130,Medium
+Direct,HRL,,8,"6-18 / 24""","Advanced, Burst:1, Split:2",Rotary Laser,131,Heavy
+Direct,LSC,,10,"0-6 / 8""","AP:1, AS",Snub Cannon,137,Light
+Direct,MSC,,11,"0-6 / 8""","AP:1, AS",Snub Cannon,138,Medium
+Direct,HSC,,12,"0-6 / 8""","AP:1, AS",Snub Cannon,139,Heavy
+Melee,LSG,Yes,6,"0""",AP:2,Spike Gun,141,Light
+Melee,MSG,Yes,7,"0""",AP:4,Spike Gun,142,Medium
+Melee,HSG,Yes,8,"0""",AP:6,Spike Gun,143,Heavy
+Direct,LTG,,9,"8-24 / 32""","AP:2, Modal",Tank Gun,149,Light
+Direct,MTG,,11,"8-24 / 32""","AP:2, Modal",Tank Gun,150,Medium
+Direct,HTG,,13,"8-24 / 32""","AP:2, Modal",Tank Gun,151,Heavy
+Melee,LVB,Yes,7,"0""",AP:1,Vibro Blade,153,Light
+Melee,MVB,Yes,8,"0""",AP:3,Vibro Blade,154,Medium
+Melee,HVB,Yes,9,"0""",AP:5,Vibro Blade,155,Heavy
+"Direct, Indirect",VLRP,,6,"6-18 / 24""","AE:3""",Rocket Pack,156,Very Light
+Direct,VLBZ,,6,"4-12 / 16""",AP:1,Bazooka,157,Very Light
+Direct,VHBZ,,10,"4-12 / 16""",AP:5,Bazooka,158,Very Heavy
+Melee,VLVB,Yes,6,"0""",AP:1,Vibro Blade,159,Very Light
+Direct,VHTG,,15,"8-24 / 32""","AP:2, Modal",Tank Gun,161,Very Heavy
+Direct,VLAC,,5,"6-18 / 24""","Burst:1, Split:2",Autocannon,162,Very Light
+"Direct, Indirect",VHATM,,11,"12-36 / 48""","AP:8, Guided",Anti-Tank Missile,164,Very Heavy
+"Direct, Indirect",VLGL,,6,"4-12 / 16""","Blast:2""",Grenade Launcher,165,Very Light
+"Direct, Indirect",VLABM,,4,"12-36 / 48""","AI, Blast:3"", Guided",Air Burst Missile,167,Very Light
+"Direct, Indirect",VHGL,,9,"4-12 / 16""","Blast:2""",Grenade Launcher,168,Very Heavy
+"Direct, Indirect",VLATM,,7,"12-36 / 48""","AP:1, Guided",Anti-Tank Missile,169,Very Light
+Direct,MPG,,7,"0-6 / 8""","Burst:2, Split:2",Pack Gun,170,Medium
+"Direct, Indirect",VHRP,,10,"6-18 / 24""","AE:3""",Rocket Pack,171,Very Heavy
+Direct,VLLC,,5,"8-24 / 32""","Advanced, Precise",Laser Cannon,172,Very Light
+Melee,VLCW,Yes,3,"0""",,Combat Weapon,173,Very Light
+Indirect,VLHG,,7,"0-6 / 8""","Blast:2""",Hand Grenade,174,Very Light
+"Direct, Indirect",VHAVM,,8,"6-18 / 24""","AP:4, Guided",Anti-Vehicle Missile,175,Very Heavy
+Direct,HPG,,8,"0-6 / 8""","Burst:2, Split:2",Pack Gun,176,Heavy
+Direct,MAPG,,4,"0-3 / 4""","AI, Blast:1"", Frag:1",Anti-Personnel Grenades,177,Medium
+Melee,VLSG,Yes,5,"0""",AP:1,Spike Gun,178,Very Light
+Direct,VLFL,,2,"0-6 / 8""","AE:3"", AI, Fire:1, Spray",Flamer ,179,Very Light
+Direct,LIP,,2,"0-6 / 9""","AI, Burst:1",Infantry Pistols,180,Light
+Direct,MIP,,3,"0-6 / 9""","AI, Burst:1",Infantry Pistols,181,Medium
+Direct,HIP,,4,"0-6 / 9""","AI, Burst:1",Infantry Pistols,182,Heavy
+Melee,VHCW,Yes,11,"0""",,Combat Weapon,183,Very Heavy
+Direct,VHRL,,9,"6-18 / 24""","Advanced, Burst:1, Split:2",Rotary Laser,184,Very Heavy
+Direct,VLPL,,7,"6-18 / 24""","Advanced, AS, Blast:2""",Pulse Laser,185,Very Light
+Direct,VHMG,,5,"4-12 / 16""","AI, Burst:2",Machine Gun,186,Very Heavy
+Melee,VHVB,Yes,10,"0""",AP:7,Vibro Blade,187,Very Heavy
+Direct,VHRF,,9,"8-24 / 32""",Precise,Rifle,188,Very Heavy
+Direct,VHRC,,9,"4-12 / 16""","Burst:2, Split:2",Rotary Cannon,189,Very Heavy
+Direct,VLFC,,2,"0-6 / 8""","AE:1"", AI, Burst:2, Modal",Frag Cannon,190,Very Light
+Direct,VLIW,,1,"0-6 / 8""","AI, Burst:1",Infantry Weapons,191,Very Light

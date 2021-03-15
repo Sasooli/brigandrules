@@ -1,0 +1,245 @@
+﻿Chassis ID,Name,Faction,Description,Manufacturer
+1,Hunter,North,,Northco
+2,Hunter XMG,North,,Northco
+3,Jaguar,North,,Northco
+4,Leopard,North,,Shaian Mechanics
+5,Cheetah,North,,Shaian Mechanics
+6,Panther,North,,Northco
+7,Black Cat,North,,Shaian/Hyperion/Racetech
+8,Ferret,North,,Keimuri Gear
+9,Weasel,North,,Keimuri Gear
+10,Bobcat,North,,Northco
+11,Wildcat,North,,Keimuri Gear/Northco
+12,Tiger,North,,Northco
+13,Hunter Paratrooper,North,,Northco
+14,Para Cheetah,North,,Shaian Mechanics
+15,Koala,North,,Northco/Riley Weapons Systems
+16,Dingo,North,,Western Armories
+17,Grizzly,North,,Northco/Shaian
+18,Razorback,North,,Northco
+19,Kodiak,North,,Northco/Shaian
+20,Bear,North,,Northco
+21,Lion,North,,Northco
+22,Scimitar,North,,Northco
+23,Mammoth,North,,Hartmore Motor Company
+24,Thunderhammer,North,,Northco/Various
+25,Klemm,North,,Norlight Industries
+26,Aller,North,,Brok Enterprises
+27,Verder,North,,Brok Enterprises
+28,Dragonfly (North),North,,
+29,Scorpion,North,,Northco/Applefish
+30,Badger,North,,Keimuri Gear
+31,Stinger,North,,Davender Industries
+32,Antelope,North,,Various
+33,Bricklayer,North,,Northco
+34,Engineering Grizzly,North,,Northco/Shaian
+35,Field Gun (North),North,,Various
+36,Lynx,North,,Western Armories
+37,Wallaby,North,,Various
+38,Northern Infantry,North,,N/A
+40,Jager,South,,Territorial Arms
+41,Para Jager,South,,Territorial Arms
+42,Asp,South,,Territorial Arms
+43,Salamander,South,,Mandeers
+44,Street Viper,South,,Mandeers / Dynamic Systems
+45,Python,South,,Mandeers
+46,Black Mamba,South,,Territorial Arms
+47,Snakeye Black Mamba,South,,
+48,Green Mamba,South,,
+49,Chameleon,South,,
+50,Diamondback,South,,Mandeers
+51,Sidewinder,South,,
+52,Viper,South,,Mandeers
+53,Black Adder,South,,
+54,Iguana,South,,Territorial Arms
+55,Silverscale,South,,Territorial Arms
+56,Black Mamba MP,South,,Territorial Arms
+57,Iguana MP,South,,Territorial Arms
+58,Cobra MP,South,,Territorial Arms
+59,Fer De Lance,South,,SRWI / Dynamic Systems
+60,Gila,South,,Territorial Arms
+61,Cobra,South,,Territorial Arms
+62,King Cobra,South,,Territorial Arms
+63,Drake,South,,Avesta Group
+64,Naga,South,,Republic Heavy Inudstries
+65,Hydra,South,,Republic Heavy Inudstries
+66,Sagittarius,South,,Allied Defense Works
+67,Dragon,South,,Humanist Alliance
+68,Hun,South,,Various
+69,Hetairoi,South,,Humanist Alliance
+70,Visigoth,South,,Republic Heavy Inudstries
+71,Artemis,South,,Republic Heavy Inudstries
+72,Varis,South,,TSI Heavy Inudstries
+73,Titan,South,,Marshall Avionics
+74,Stonemason,South,,Territorial Arms
+75,Engineering Cobra,South,,Territorial Arms
+76,Caiman,South,,Brok Enterprises
+77,Elan,South,,
+78,Field Gun (South),South,,
+79,Jackrabbit Motorbike,South,,
+80,Lizard Rider Infantry,South,,
+81,Warrior,Peace River,,Paxton
+82,Jackal,Peace River,,Paxton
+83,Warrior IV,Peace River,,Paxton
+84,Spartan,Peace River,,Paxton
+85,Gladiator,Peace River,,Paxton
+86,Pitbull,Peace River,,Paxton
+87,Mustang,Peace River,,Paxton
+88,Greyhound,Peace River,,Paxton
+89,Skirmisher,Peace River,,Paxton
+90,Assassin Skirmisher,Peace River,,Paxton
+91,Shinobi,Peace River,,Paxton
+92,Argos,Peace River,,Paxton
+93,Crusader,Peace River,,Paxton
+94,Cataphract,Peace River,,Paxton
+95,Uhlan,Peace River,,Paxton
+97,Coyote,Peace River,,Paxton
+98,Red Bull,Peace River,,Paxton
+99,Mastiff,Peace River,,Paxton
+100,Hoplite,Peace River,,Paxton
+101,Mameluk,Peace River,,Paxton
+102,Spitz Monowheel,Peace River,,Paxton
+104,Chasseur,NuCoal,General-purpose trooper gear with fast hover movement,Various
+105,Chasseur MK2,NuCoal,Elite trooper gear with fast hover movement and jetpacks,Neil Motorworks
+106,Chevalier,NuCoal,Fire support gear with range of indirect-fire weapon choices,Neil Motorworks
+107,Boa,NuCoal,Extremely tough fire support and close-combat gear,Neil Motorworks
+108,Arbalestier,NuCoal,"Elite, airdroppable direct-fire support gear",Neil Motorworks
+109,Cuirassier,NuCoal,Airdroppable elite trooper gear with heavier armaments,Neil Motorworks
+110,Chasseur Paratrooper,NuCoal,Airdroppable trooper gear with fast hover movement,Various
+111,Jerboa Paratrooper,NuCoal,"Airdroppable, fast but fragile recon/ECM gear with jetpacks",Verton Tech
+112,Jerboa,NuCoal,Fast but fragile recon/ECM gear with jetpacks,Verton Tech
+113,Lancier,NuCoal,Climber specialising in melee and short-range anti-armor,Neil Motorworks
+114,Espion,NuCoal,Stealthy elite trooper gear,Javelin Industries
+115,Hussar,NuCoal,,Javelin Industries
+116,Fusilier,NuCoal,Fast light hover tank with medium-to-long range weapons,Neil Motorworks
+117,Voltigeur,NuCoal,,Neil Motorworks
+118,Sampson,NuCoal,Fast hover APC with medical option,Neil Motorworks/Javelin Industries
+119,Chargeur,NuCoal,,Neil Motorworks
+120,Sapeur,NuCoal,,Neil Motorworks/Kingman Heavy Industries
+121,Armadillo Beast,NuCoal,Relatively tough close-combat specialist,N/A
+123,Sandrider Squad,NuCoal,"Elite, stealthy infantry with Corrosion weapons",N/A
+124,Barnaby Sandrider,NuCoal,,N/A
+125,Lizard Sandrider Infantry,NuCoal,,N/A
+126,En Koreshi,NuCoal,,N/A
+127,Dark Cheetah,Black Talon,,
+128,Dark Skirmisher,Black Talon,,
+129,Dark Jaguar,Black Talon,,Black Talon Werks
+130,Dark Mamba,Black Talon,,
+131,Dark Kodiak,Black Talon,,
+132,Dark Cobra,Black Talon,,Black Talon Werks
+133,Dark Coyote,Black Talon,,
+134,Dark Naga,Black Talon,,
+135,Dark Mastiff,Black Talon,,
+136,Eagle,Black Talon,,
+137,Owl,Black Talon,,
+138,Raptor,Black Talon,,
+139,Raven,Black Talon,,
+140,Vulture,Black Talon,,
+141,F6-16,CEF,,Colonial Expeditionary Force
+142,BF2-21,CEF,,Colonial Expeditionary Force
+143,BF2-25,CEF,,Colonial Expeditionary Force
+144,F6-16-S,CEF,,Colonial Expeditionary Force
+145,BF2-19,CEF,,Colonial Expeditionary Force
+146,"MHT-68 ""Predator""",CEF,,Colonial Expeditionary Force
+147,"MHT-72 ""Extirpator""",CEF,,Colonial Expeditionary Force
+148,"MHT-95 ""Brute""",CEF,,Colonial Expeditionary Force
+149,"LHT-67 ""Prowler""",CEF,,Colonial Expeditionary Force
+151,"HPC-63 ""Pacifier""",CEF,,Colonial Expeditionary Force
+152,"HC-3A ""Mediator""",CEF,,Kadellie Weapon Systems
+153,Mordred GREL Infantry,CEF,,Colonial Expeditionary Force
+155,Mordred GREL Hoverbike,CEF,,Colonial Expeditionary Force
+156,FLAIL Powered Suit,CEF,,Colonial Expeditionary Force
+158,"HHT-90 ""Overlord""",CEF,,Colonial Expeditionary Force
+159,"Type 42 ""Peregrine"" Gunship",CEF,,Gallot Enterprises
+160,Acco,Caprice,,
+161,Bashan,Caprice,,
+162,Aphek,Caprice,,
+163,Kadesh,Caprice,,
+164,Meggido,Caprice,,
+165,Ammon,Caprice,,
+166,Moab,Caprice,,
+167,Hamath,Caprice,,
+169,Recce Armiger,Utopia,,
+170,Support Armiger,Utopia,,
+171,Commando Armiger,Utopia,,
+172,Recon N-KIDU,Utopia,,
+173,Support N-KIDU,Utopia,,
+174,Commando N-KIDU,Utopia,,
+176,Shamhat APE,Utopia,,
+177,Ninlil APE,Utopia,,
+178,Namtar APE,Utopia,,
+179,Marshal Golem,Eden,,
+180,Constable Golem,Eden,,
+181,Man at Arms Golem,Eden,,
+182,Defensive Structure,Generic,,
+184,Drone,Generic,,
+186,Southern Infantry,South,,N/A
+187,Peace River Infantry,Peace River,,
+188,NuCoal Infantry,NuCoal,"Range of roles including anti-tank, mortar, sniper, and ECM",N/A
+189,Black Talon Infantry,Black Talon,,
+194,Caprice Infantry,Caprice,,
+195,Wildcat (NuCoal),NuCoal,Lighter recon gear with close-combat focus,Keimuri Gear/Neil Motorworks
+196,Valence,Peace River,,Paxton
+197,Valence (NuCoal),NuCoal,,Paxton
+198,Dragonfly,Peace River,,Paxton
+199,Engineering Grizzly (NuCoal),NuCoal,,Northco
+200,Engineering Grizzly (Peace River),Peace River,,Northco/Shaian
+201,Engineering Cobra (Peace River),Peace River,,Territorial Arms
+202,Engineering Cobra (NuCoal),NuCoal,,Territorial Arms
+203,Bricklayer (NuCoal),NuCoal,,Northco
+204,Stonemason (NuCoal),NuCoal,,Territorial Arms
+205,Varis (NuCoal),NuCoal,Lightly armored VTOL with recon and ECCM capabilities,TSI Heavy Inudstries
+206,Antelope (Peace River),Peace River,,Various
+207,Elan (Peace River),Peace River,,Various
+209,Para Iguana,South,,Territorial Arms
+210,Panda,North,,Northco
+211,Anolis,South,,
+212,Dartjager,South,,
+213,Copperhead,South,,
+214,Rattlesnake,South,,
+215,Basilisk,South,,
+217,Stormhammer,North,,Norlight Industries
+218,"LHT-70 ""Expander""",CEF,,Colonial Expeditionary Force
+219,"LHT-66 ""Projector""",CEF,,Colonial Expeditionary Force
+220,"LHT-71 ""Executioner""",CEF,,Colonial Expeditionary Force
+222,"HPC-64 ""Alleviator""",CEF,,Colonial Expeditionary Force
+223,Stripped Down Hunter,North,,Northco
+225,"MHT-68 ""Predator"" (PAK)",NuCoal,,Colonial Expeditionary Force
+226,Tankhunter,North,,Northco
+227,"LHT-67 ""Prowler"" (PAK)",NuCoal,,Colonial Expeditionary Force
+228,"LHT-71 ""Executioner"" (PAK)",NuCoal,,Colonial Expeditionary Force
+229,"MHT-72 ""Extirpator"" (PAK)",NuCoal,,Colonial Expeditionary Force
+230,"LHT-66 ""Projector"" (PAK)",NuCoal,,Colonial Expeditionary Force
+232,Falcon Grav Tank,Eldar,,
+233,Mordred GREL Infantry (PAK),NuCoal,,Colonial Expeditionary Force
+234,Morgana GREL Infantry,CEF,,Colonial Expeditionary Force
+235,Morgana GREL Infantry (PAK),NuCoal,,Colonial Expeditionary Force
+236,Badlands Python,Leagueless,,
+238,Mordred GREL Hoverbike (PAK),NuCoal,,Colonial Expeditionary Force
+239,Black Wind,Peace River,,Paxton
+240,Mad Dog,North,,Western Armories
+241,"HPC-63 ""Pacifier"" (PAK)",NuCoal,,Colonial Expeditionary Force
+242,Space Marine,Hellkites,,
+243,Boa (South),South,Extremely tough fire support and close-combat gear,Mandeers
+244,Warrior Elite,Peace River,,Paxton
+245,Stripped Down Jager,South,,Various
+246,Jaxon,North,,Northern Motors
+248,Hunter Commando,North,,Northco
+249,Ragnarok Battle Tank,Imperial Guard,,
+250,Janissary,NuCoal,,Paxton
+251,Harrier,Peace River,,Paxton
+252,Hetairoi (NuCoal),NuCoal,,Humanist Alliance
+254,Armored Hunter,North,,Northco
+255,Jaguarundi,North,,Northco
+256,Armored Jager,South,,Territorial Arms
+257,Water Viper,South,,
+258,Spearhead Hunter,North,,Northco
+259,Hyena,Peace River,,Paxton
+260,"HC-3 ""Arbiter""",CEF,,Kadellie Weapon Systems
+261,Brahmin Cobra,South,,Territorial Arms
+262,"Type 42 ""Peregrine"" Gunship (PAK)",NuCoal,,Gallot Enterprises
+263,Nidhogg,Jotunheim,,
+264,Red Bull MK1,Peace River,,Paxton
+265,Rock Mamba,South,,Territorial Arms
+266,Den Mother,North,,Northco
+267,Anaconda,South,,Mandeers
